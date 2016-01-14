@@ -1,6 +1,6 @@
 # Introduction
 
-I teach Mathematics and Computer Science at Aston University in Birmingham, UK. I like my students to master hard things. It does them good and I love being part of their personal development. Over the last few years the internet has changed the way many on this planet live so I decided they really should understand how the world wide web works and the quickest way to do that was to write a web application.
+I teach Mathematics and Computer Science at Aston University in Birmingham, UK. I like my students to master hard things. It does them good and I love being part of their personal development. Over the last few years the internet has changed the way many on this planet live so I decided they really should understand how the internet works and the quickest way to do that was to write a web application.
 
 
 Writing a web application is quite daunting. You need to understand hyper-text markup language (HTML), cascading style sheets (CSS), JavaScript, PHP, SQL, web security, server side operations, client side functions and a stack of other bits and pieces. Everything you need can be done in multiple different ways so simply choosing the code stack is pretty daunting.
